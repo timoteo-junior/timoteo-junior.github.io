@@ -6,6 +6,9 @@
     .esquerda{
         flex-direction: column;
     }
+    div h1{
+        top: 30px;
+    }
 }
 *{
     font-family: Typography;
